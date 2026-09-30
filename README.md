@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/farah-jmal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/farah-jemal-0a431933b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:farahjmal45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/farah-jemal/portfolio"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=github&logoColor=7fdbff" alt="Portfolio"/></a>
 
@@ -61,7 +61,7 @@ Je conçois des **modèles de données** et des **dashboards d'aide à la décis
 
 ### 📬 Un projet où la donnée doit devenir décision ? Parlons-en.
 
-<a href="https://linkedin.com/in/farah-jmal"><img src="https://img.shields.io/badge/💬_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/farah-jemal-0a431933b"><img src="https://img.shields.io/badge/💬_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="mailto:farahjmal45@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge" alt="Email"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="" width="100%"/>
