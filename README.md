@@ -49,7 +49,7 @@ Je conçois des **modèles de données** et des **dashboards d'aide à la décis
 
 ## 💼 Expérience
 
-- **🏦 BIAT IT** · Stage d'observation, Innovation & Technologie (Data, DevOps) · *été 2026*
+- **🏦 BIAT IT** · Stage d'observation, Innovation & Technologie (Data, DevOps) · *juillet 2026*
 - **🤖 EY Tunisie** · Stage, Conseil en IA & Data (automatisation, data visualisation) · *juin 2026*
 
 ## 🎓 Formation
