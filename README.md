@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/farah-jemal-0a431933b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="[www.linkedin.com/in/farah-jemal-0a431933b](https://www.linkedin.com/in/farah-jemal-0a431933b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:farahjmal45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/farah-jemal/portfolio"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=github&logoColor=7fdbff" alt="Portfolio"/></a>
 
